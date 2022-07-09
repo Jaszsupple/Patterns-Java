@@ -1,4 +1,4 @@
-public class Diamond {
+public class HalfDiamond {
 
 	public static void main(String[] args) {
   
